@@ -1,0 +1,15 @@
+{
+    "name": "sameera/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameera Madushan",
+            "email": "sameera.xyz.me@gmail.com"
+        }
+    ],
+    "require": {}
+}
